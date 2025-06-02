@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Shweta Swain
 
-<!--
-**shwetaswain/shwetaswain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | Python • SQL • Power BI • Excel  
+📍 Mumbai, India | Open to entry-level roles and internships
 
-Here are some ideas to get you started:
+## 🧠 Skills & Tools
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (Joins, CTEs, Aggregation)
+- Power BI (DAX, Dashboards)
+- Excel (Pivot Tables, VLOOKUP, Dashboards)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🛍️ [Supermarket Sales Analysis](https://github.com/shwetaswain/supermarket-sales-analysis)
+- 👥 [Customer Segmentation (RFM)](https://github.com/shwetaswain/customer_segmentation)
+- 🔍 [Fraud Detection Using ML](https://github.com/shwetaswain/fraud-detection-transactions-ml)
+
+**##🔭 I’m currently working on**
+- HR Analytics project using Excel and Power BI
+
+## 🔗 Connect with Me
+- [LinkedIn](https://linkedin.com/in/shweta-swain01)
+- 📧 shwetaswain01@gmail.com
+
+
+
